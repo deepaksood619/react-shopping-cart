@@ -44,3 +44,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Firebase hosting
+```bash
+npm install firebase-tools -g
+
+firebase login
+
+firebase init
+
+firebase deploy
+```
+[Demo](https://deepak-react-shopping-cart.web.app/)
+
+
+[Reference Tutorial](https://www.youtube.com/watch?v=sfmL6bGbiN8&ab_channel=freeCodeCamp.org)
